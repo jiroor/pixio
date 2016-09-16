@@ -1,0 +1,2 @@
+# pixio
+PixiJS like Object
